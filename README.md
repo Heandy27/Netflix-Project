@@ -7,10 +7,10 @@ It displays categories such as trending, popular, top-rated, and upcoming titles
 The app also integrates WebKit for content previews and uses Core Data for saving favorites locally.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<img src="https://i.postimg.cc/26n5VpnY/Simulator-Screenshot-i-Phone-16-Pro-2025-05-01-at-09-46-10.png" alt="list.png" width="200">
-<img src="https://i.postimg.cc/sg1D5G5w/Simulator-Screenshot-i-Phone-16-Pro-2025-05-01-at-09-46-13.png" alt="list.png" width="200">
-<img src="https://i.postimg.cc/QdPNmNbs/Simulator-Screenshot-i-Phone-16-Pro-2025-05-01-at-09-46-16.png" alt="list.png" width="200">
-<img src="https://i.postimg.cc/NG7Mtcg7/Simulator-Screenshot-i-Phone-16-Pro-2025-05-01-at-09-46-28.png" alt="list.png" width="200">
+<img src="https://i.postimg.cc/8kdKL7pj/home.png" alt="list.png" width="200">
+<img src="https://i.postimg.cc/s2BHWKxr/detail.png" alt="list.png" width="200">
+<img src="https://i.postimg.cc/T1xtZ69d/upcoming.png" alt="list.png" width="200">
+<img src="https://i.postimg.cc/50LP708K/donwloads.png" alt="list.png" width="200">
 </div>
 
 ## Features
